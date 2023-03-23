@@ -1,0 +1,26 @@
+@import url('https://fonts.googleapis.com/css2?family=Alkatra:wght@400;500;600&display=swap');
+
+nav{
+    background-color: aquamarine;
+}
+a{
+    color:black;
+}
+* {
+    font-family: Alkatra, Helvetica, sans-serif;
+}
+
+img {
+    width: 15px;
+}
+h2{
+    background-color: salmon;
+    color:white;
+}
+h3{
+    background-color: rgb(250, 128, 114);
+    color:white;
+}
+.acceso{
+    width: 250px;
+}
